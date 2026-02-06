@@ -1,21 +1,19 @@
 {
   "metadata": {
-    "name": "Top Truyện",
-    "author": "Nahona",
-    "version": 9,
-    "source": "https://www.toptruyenxi.com/",
-    "regexp": "(www\.)?(toptruyenxi\.com|doctruyen3qx\.pro)/truyen-tranh/(.*?)/(.*?)",
-    "description": "",
-    "locale": "vi_VN",
-    "language": "javascript",
-    "type": "comic"
+    "author": "MCC",
+    "description": ""
   },
-  "script": {
-    "home": "home.js",
-    "detail": "detail.js",
-    "toc": "toc.js",
-    "genre": "genre.js",
-    "search": "search.js",
-    "chap": "chap.js"
-  }
+  "data": [
+    {
+      "name": "Top truyện",
+      "author": "MCC",
+      "path": "https://raw.githubusercontent.com/MoccanTN/toptruyenx/main/1/plugin.zip",
+      "version": 3,
+      "source": "https://www.qidian.com",
+      "icon": "https://raw.githubusercontent.com/MoccanTN/toptruyenx/main/1/icon.png",
+      "description": "Đọc truyện",
+      "type": "vnese_novel",
+      "locale": "Vi_VN"
+    }
+  ]
 }
