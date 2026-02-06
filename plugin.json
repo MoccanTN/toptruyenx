@@ -1,6 +1,5 @@
 {
   "metadata": {
-<<<<<<< HEAD
     "author": "MCC",
     "description": ""
   },
@@ -10,7 +9,7 @@
       "author": "MCC",
       "path": "https://raw.githubusercontent.com/MoccanTN/toptruyenx/main/1/plugin.zip",
       "version": 3,
-      "source": "https://www.qidian.com",
+      "source": "https://www.toptruyenxi.com",
       "icon": "https://raw.githubusercontent.com/MoccanTN/toptruyenx/main/1/icon.png",
       "description": "Đọc truyện",
       "type": "vnese_novel",
