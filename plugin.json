@@ -1,7 +1,7 @@
 {
   "metadata": {
     "name": "Top Truyện",
-    "author": "Nahona",
+    "author": "MCC",
     "version": 9,
     "source": "https://www.toptruyenxi.com/",
     "regexp": "(www\.)?(toptruyenxi\.com|doctruyen3qx\.pro)/truyen-tranh/(.*?)/(.*?)",
